@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello World Android</string>
+    <string name="name_edit_text">Name Test Edit</string>
+    <string name="say_hello_button">Say Hello</string>
+    <string name="say_hello_text_view">Halo %1$s</string>
+    <string-array name="names" >
+        <item >Cloudias</item>
+        <item > Imani</item>
+        <item> Pradana </item>
+    </string-array>
+</resources>
